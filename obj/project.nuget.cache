@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CZqdN5Yiz9QOuBtbFKyj6sDEYBHndCpWqI7CXcBoE+1KkhfZDZ6NoTky7N8z6Dz5uzA7/umKBnjdepJ+5jnT+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\altın yapım\\Desktop\\MeetingApp\\MeetingApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\altın yapım\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\altın yapım\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\altın yapım\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\altın yapım\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
